@@ -3,7 +3,7 @@
   "colors": {
     // Core editor colors
     "editor.background": "#080808",
-    "editor.foreground": "#c6c6c6",
+    "editor.foreground": "#d3d3d3",
     // Activity Bar
     "activityBar.background": "#080808",
     "activityBar.foreground": "#c6c6c6",
@@ -140,10 +140,10 @@
     "terminal.ansiBrightCyan": "#85dc85",
     "terminal.ansiBrightWhite": "#e4e4e4",
     // Git decorations
-    "gitDecoration.modifiedResourceForeground": "#e3c78a",
+    "gitDecoration.modifiedResourceForeground": "#e1c384",
     "gitDecoration.deletedResourceForeground": "#ff5d5d",
-    "gitDecoration.untrackedResourceForeground": "#8cc85f",
-    "gitDecoration.ignoredResourceForeground": "#626262",
+    "gitDecoration.untrackedResourceForeground": "#87e073dc",
+    "gitDecoration.ignoredResourceForeground": "#757373",
     "gitDecoration.conflictingResourceForeground": "#cf87e8",
     // Merge conflicts
     "merge.currentHeaderBackground": "#8cc85f40",

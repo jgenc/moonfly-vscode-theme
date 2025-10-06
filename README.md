@@ -1,43 +1,33 @@
 # Moonfly Theme for Visual Studio Code
 
-A faithful port of the [moonfly](https://github.com/bluz71/vim-moonfly-colors) theme created by [bluz71](https://github.com/bluz71) for Neovim and Vim.
+A (*try to*) port of the [moonfly](https://github.com/bluz71/vim-moonfly-colors) theme created by [bluz71](https://github.com/bluz71) for Neovim and Vim.
 
 Moonfly is a dark charcoal theme with carefully chosen, vibrant syntax highlighting that's easy on the eyes during long coding sessions.
 
+This project was mostly made with generative AI, so please don't take this port seriously. I don't want to diminish the original theme's efforts. Any additions or comments are very welcome!
+
 ## Screenshot
 
-![Moonfly Theme Screenshot](https://raw.githubusercontent.com/bluz71/misc-binaries/master/moonfly/moonfly-screenshot.png)
-
-## Features
-
-- **Authentic Color Palette**: Uses the exact same colors as the original Neovim/Vim theme
-- **Comprehensive Syntax Highlighting**: Supports all major languages with careful token mapping
-- **Complete UI Theming**: Every VS Code interface element is themed consistently
-- **Terminal Colors**: Integrated terminal uses the same color palette
-- **Git Integration**: Proper colors for git decorations and diff views
-- **Semantic Token Support**: Enhanced highlighting for modern language servers
+![Moonfly Theme Screenshot](./assets/vscode.png)
 
 ## Color Palette
 
 The theme uses a dark charcoal background (`#080808`) with these core colors:
 
-- **Red**: `#ff5d5d` - Errors, deletions
-- **Green**: `#8cc85f` - Additions, built-ins  
+- **Red**: `#ff5d5d` - Errors, deletions, invalid
+- **Green**: `#8cc85f` - Additions, built-ins, language methods
 - **Yellow**: `#e3c78a` - Warnings, modifications
-- **Blue**: `#80a0ff` - Tags, elements
-- **Purple**: `#ae81ff` - Special strings, symbols
-- **Cyan**: `#79dac8` - Identifiers, modules
-- **Orange**: `#de935f` - Numbers, constants
-- **Violet**: `#cf87e8` - Keywords, control flow
-- **Emerald**: `#36c692` - Types, constructors
-- **Sky**: `#74b2ff` - Functions, methods
-- **Lime**: `#85dc85` - Built-in constants
-- **Khaki**: `#c6c684` - Strings
-- **Cranberry**: `#e65e72` - Operators, booleans
-- **Coral**: `#f09479` - Special elements
-- **Turquoise**: `#79dac8` - Properties, attributes  
-- **Lavender**: `#adadf3` - Properties, CSS
-- **Orchid**: `#e196a2` - Parameters, markup
+- **Blue**: `#80a0ff` - HTML/XML tags, CSS classes
+- **Purple**: `#ae81ff` - Template strings, special strings, markup link URLs
+- **Cyan**: `#79dac8` - Attributes, identifiers, modules, regex
+- **Orange**: `#de935f` - Numbers, constants, function arguments
+- **Violet**: `#cf87e8` - Keywords, storage, control flow
+- **Emerald**: `#36c692` - Types, classes, constructors
+- **Sky**: `#74b2ff` - Functions, methods, imports
+- **Khaki**: `#c6c684` - Strings, symbols, headings
+- **Cranberry**: `#e65e72` - Operators, escape characters, punctuation
+- **Lavender**: `#adadf3` - CSS properties
+- **Orchid**: `#e196a2` - Parameters, markup bold/italic
 
 ## Installation
 
@@ -58,21 +48,6 @@ The theme uses a dark charcoal background (`#080808`) with these core colors:
    - **Linux**: `~/.vscode/extensions`
 3. Restart VS Code
 4. Go to `File > Preferences > Color Theme` and select "Moonfly"
-
-## Language Support
-
-This theme provides excellent support for:
-
-- **JavaScript/TypeScript** - Functions, classes, JSX
-- **Python** - Classes, decorators, f-strings
-- **Rust** - Lifetimes, macros, attributes
-- **Go** - Interfaces, struct tags
-- **C/C++** - Preprocessor, types
-- **Java** - Annotations, generics
-- **HTML/CSS** - Tags, selectors, properties
-- **JSON/YAML** - Keys, values, syntax
-- **Markdown** - Headings, links, code blocks
-- **And many more...**
 
 ## Credits
 
