@@ -1,5 +1,9 @@
 # Moonfly Theme for Visual Studio Code
 
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/jgenc.moonfly-vscode-theme?style=flat&logo=visual-studio-code&logoColor=white&color=74b2ff)](https://marketplace.visualstudio.com/items?itemName=jgenc.moonfly-vscode-theme)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/jgenc.moonfly-vscode-theme?style=flat&logo=visual-studio-code&logoColor=white&color=36c692)](https://marketplace.visualstudio.com/items?itemName=jgenc.moonfly-vscode-theme)
+[![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/jgenc.moonfly-vscode-theme?style=flat&logo=visual-studio-code&logoColor=white&color=e3c78a)](https://marketplace.visualstudio.com/items?itemName=jgenc.moonfly-vscode-theme)
+
 An effort to port the [moonfly](https://github.com/bluz71/vim-moonfly-colors) theme created by [bluz71](https://github.com/bluz71) for Neovim and Vim.
 
 Moonfly is a dark charcoal theme with carefully chosen, vibrant syntax highlighting that's easy on the eyes during long coding sessions.
