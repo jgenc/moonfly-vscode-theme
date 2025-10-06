@@ -3,7 +3,7 @@
   "displayName": "Moonfly Theme",
   "description": "An attempted Visual Studio Code port of the moonfly theme created for Neovim and Vim by bluz71. Dark charcoal theme with carefully chosen syntax highlighting.",
   "version": "0.1.0",
-  "publisher": "moonfly",
+  "publisher": "jgenc",
   "author": {
     "name": "Jorgen Cani"
   },
