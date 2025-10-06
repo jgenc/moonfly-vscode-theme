@@ -1,6 +1,6 @@
 # Moonfly Theme for Visual Studio Code
 
-A (*try to*) port of the [moonfly](https://github.com/bluz71/vim-moonfly-colors) theme created by [bluz71](https://github.com/bluz71) for Neovim and Vim.
+An effort to port the [moonfly](https://github.com/bluz71/vim-moonfly-colors) theme created by [bluz71](https://github.com/bluz71) for Neovim and Vim.
 
 Moonfly is a dark charcoal theme with carefully chosen, vibrant syntax highlighting that's easy on the eyes during long coding sessions.
 
