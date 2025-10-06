@@ -1,7 +1,7 @@
 {
   "name": "moonfly-vscode-theme",
   "displayName": "Moonfly Theme",
-  "description": "A faithful Visual Studio Code port of the moonfly theme created for Neovim and Vim by bluz71. Dark charcoal theme with carefully chosen syntax highlighting.",
+  "description": "An attempted Visual Studio Code port of the moonfly theme created for Neovim and Vim by bluz71. Dark charcoal theme with carefully chosen syntax highlighting.",
   "version": "0.1.0",
   "publisher": "moonfly",
   "author": {
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/moonfly-vscode-theme"
+    "url": "https://github.com/jgenc/moonfly-vscode-theme"
   },
   "bugs": {
-    "url": "https://github.com/your-username/moonfly-vscode-theme/issues"
+    "url": "https://github.com/jgenc/moonfly-vscode-theme/issues"
   },
-  "homepage": "https://github.com/your-username/moonfly-vscode-theme#readme",
+  "homepage": "https://github.com/jgenc/moonfly-vscode-theme#readme",
   "license": "MIT",
   "keywords": [
     "theme",
