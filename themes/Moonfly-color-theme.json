@@ -76,9 +76,9 @@
     "scrollbarSlider.activeBackground": "#585858",
     // Minimap
     "minimap.background": "#080808",
-    "minimapSlider.background": "#2e2e2e",
-    "minimapSlider.hoverBackground": "#444444",
-    "minimapSlider.activeBackground": "#585858",
+    "minimapSlider.background": "#2e2e2eC1",
+    "minimapSlider.hoverBackground": "#444444C1",
+    "minimapSlider.activeBackground": "#585858C1",
     // Lists
     "list.activeSelectionBackground": "#373c4d",
     "list.activeSelectionForeground": "#c6c6c6",
